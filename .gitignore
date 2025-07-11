@@ -1,0 +1,6 @@
+*
+!.gitignore
+!sway
+!waybar
+!alacritty
+!rofi
