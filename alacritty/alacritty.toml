@@ -1,0 +1,7 @@
+general.import = [
+    "~/.config/alacritty/themes/themes/autumn.toml"
+]
+
+font.normal = { family = "FiraCode", style = "Regular" }
+
+cursor.style = { shape = "Beam", blinking = "On" }

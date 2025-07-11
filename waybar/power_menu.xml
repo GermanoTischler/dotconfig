@@ -1,0 +1,14 @@
+<menu>
+<item label="Shutdown">
+   <action>systemctl poweroff</action>
+</item>
+<item label="Reboot">
+   <action>systemctl reboot</action>
+</item>
+<item label="Suspend">
+   <action>systemctl suspend</action>
+</item>
+<item label="Hybernate">
+   <action>swaylock</action>
+</item>
+</menu>
