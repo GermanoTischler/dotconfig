@@ -1,1 +1,1 @@
-![alt text]([http://url/to/img.png](https://media.tenor.com/vo5NUYk1FwQAAAAe/joji-filthy-frank.png))
+<img width="640" height="312" alt="image" src="https://github.com/user-attachments/assets/a40ec31c-7063-4b82-b734-41fc41cd65c6" />
